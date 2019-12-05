@@ -1,0 +1,1 @@
+if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['home']={"name":"home-首页.md","path":"home-首页.md","content":"# 前端技术文档\r\n\r\n<br>\r\n\r\n![欢迎使用amWiki！](amWiki/images/logonew.png \"欢迎使用前端技术文档！\")  \r\n\r\n—— **本文档使用 amWiki编写**  \r\n[ [amWiki 官网文档中心](https://amwiki.org/doc/) ]\r\n","timestamp":1575539754646}

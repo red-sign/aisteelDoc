@@ -11,3 +11,6 @@
 
 ##### 浏览器快捷键
 - [浏览器常用快捷键](?file=002-浏览器快捷键/001-浏览器常用快捷键 "浏览器常用快捷键")
+
+##### Selenium
+- [基于Java语言的Selenium PC自动化测试教程](?file=003-Selenium/001-基于Java语言的Selenium PC自动化测试教程 "基于Java语言的Selenium PC自动化测试教程")
